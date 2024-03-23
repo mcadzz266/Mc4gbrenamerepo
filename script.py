@@ -16,14 +16,14 @@ class script(object):
 <b>⦿ /viewthumb - Use This Command To See Your Thumbnail</b>
 <b>⦿ /delthumb - Use This Command To Delete Your Thumbnail</b>"""
 
-    ABOUT_TXT = """<b>🤖 My Name :</b> <a href='https://t.me/FileRenameXProBot'>Rename Bot 4GB</a>
+    ABOUT_TXT = """<b>🤖 My Name :</b> <a href='https://t.me/speedrenamebot'>Speed Rename Bot 1.0</a>
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
+<b>📢 Channel :</b> <a href='https://t.me/know_about_loxxd'>Know About Loxxd</a>
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/loxxd007'>Loxxd</a>
 
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+<b>♻️ Bot Made By :</b> @Loxxd007"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
