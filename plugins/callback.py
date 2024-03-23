@@ -36,8 +36,7 @@ async def help(bot,update):
     keybord = InlineKeyboardMarkup([ 
                     [InlineKeyboardButton('🏞 Thumbnail', callback_data='thumbnail'),
                     InlineKeyboardButton('✏ Caption', callback_data='caption')],
-                    [InlineKeyboardButton('🏠 Home', callback_data='home'),
-                    InlineKeyboardButton('💵 Donate', callback_data='donate')]
+                    [InlineKeyboardButton('🏠 Home', callback_data='home')]
                    ])
     await update.message.edit(text = text,reply_markup = keybord)
 
