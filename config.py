@@ -13,7 +13,7 @@ LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001829805583"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://premiumrenamebot:premiumrenamebot@cluster0.n4g3xle.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DB_NAME", "madflixbotz")
 
-STRING = os.environ.get("STRING", "BQEYx1oAJG_gt8Wy4Z7qgbuJ1vXFzjGqm7mvdQvSuU4mU6ywokbRYsK7OqsU_lkcrbsPTUUt_0oLRuOVkrQXwkp0GWGgonTSpEtpwHzKDwHX53zmXq4Ew1O2F2D1ws13V503eUYaMICHb-6ONcSwgAhhEUq6ufvei2m-VR5bgMYJgV4yz5sSCUnyJ2yN4YUshwHrc5foBSKXxEzt4Z4xUviX8EeLb0aboA869Q1lRT4aJgP7BUbEFz7mbIpals55jUZBEstbAxeAsT6Eux9yjMJWu4x9NyJacgoUPmI5FL1sI4nhkYkGerqpFJbzNlNRtUNhbODUOSbq_3rkP3i9tTVfj6U_FgAAAAAo0B41AA")
+STRING = os.environ.get("STRING", "")
 BOT_PIC = os.environ.get("BOT_PIC", "https://graph.org/file/9bfc85074ce2d1b2a2046.jpg")
 
 
